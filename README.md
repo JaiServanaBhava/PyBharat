@@ -6,13 +6,7 @@
   <h1>🇮🇳 PyIndia 🐍</h1>
   <p><b>The soul of India in the power of Python</b></p>
 
-  <p>
-    <a href="#installation">Install</a> • 
-    <a href="#features">Features</a> • 
-    <a href="#usage">Usage</a> • 
-    <a href="#contributing">Contribute</a> • 
-    <a href="#license">License</a>
-  </p>
+  
 </div>
 
 ---
@@ -66,25 +60,32 @@ print(utilities.indian_date())
 # Run mantra pattern
 culture.om_wave(5)
 
-📃 License
+📄 License
 
 This project is licensed under the MIT License
-© 2025 [Your Name or GitHub Handle] – India
+© 2025 [Your Name or GitHub Username] – India 🇮🇳
 
 
 ---
 
-🙏 Join the Movement
+🙌 Join the Movement
 
-> "Code like a yogi, script like a sage."
+> 🧘 “Code like a yogi, script like a sage.”
 
 
 
-Join Indian developers building something fun, useful, and nationally flavored.
-Contribute, fork, star ⭐ and show your Python 🇮🇳 power.
+PyIndia is more than just a library — it’s a growing cultural and open-source movement celebrating Indian tech, language, and values.
 
-<div align="center">
-  <strong>🇮🇳 PyIndia — Proudly made in India</strong>
+Contribute, fork, and ⭐ star the project — and show the world your Python 🇮🇳 power!
+
+
+---
+
+<div align="center">🤍 🧡 💚
+
+🇮🇳 PyIndia
+Proudly Made in India
+With Python. For Bharat.
+🧡 🤍 💚
+
 </div>
-```
----
