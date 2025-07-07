@@ -40,6 +40,7 @@ It’s not just a library — it’s a **Python-powered tribute to Indian tech m
 ## 🛠️ Installation
 
 ### 📦 From PyPI (soon)
+``` bash
 pip install pyindia
 
 git clone https://github.com/yourusername/pyindia.git
@@ -58,8 +59,8 @@ print(utilities.indian_date())
 
 # Run mantra pattern
 culture.om_wave(5)
-
-h2>📄 License</h2>
+```
+<h2>📄 License</h2>
   <p>This project is licensed under the <strong>MIT License</strong><br>
   &copy; 2025 <strong>Jai Servana Bhava</strong> – India 🇮🇳</p>
 
@@ -89,61 +90,3 @@ h2>📄 License</h2>
     <h2>🇮🇳 PyBharat</h2>
     <p class="footer-flags"><em>Made in India — By Developers, For Bharat</em></p>
   </div>
-<style>
-    body {
-      font-family: "Segoe UI", sans-serif;
-      margin: 40px;
-      background: #fffefc;
-      color: #222;
-      line-height: 1.6;
-    }
-
-    code, pre {
-      background-color: #f0f0f0;
-      padding: 6px 10px;
-      border-radius: 4px;
-      display: block;
-      margin: 10px 0;
-      font-family: Consolas, monospace;
-      font-size: 14px;
-    }
-
-    h1, h2, h3 {
-      color: #0c3;
-    }
-
-    .flag-footer {
-      text-align: center;
-      padding: 30px 0 0;
-      margin-top: 60px;
-      border-top: 3px double #ccc;
-    }
-
-    .chakra {
-      display: inline-block;
-      color: #1a73e8;
-      font-size: 22px;
-      font-weight: bold;
-      margin: 4px 6px;
-    }
-
-    .chakra::before {
-      content: "☸";
-    }
-
-    .install-box {
-      background: #fef7e0;
-      border-left: 6px solid #ff9933;
-      padding: 16px;
-      margin: 20px 0;
-    }
-
-    .footer-flags {
-      font-size: 18px;
-      color: #333;
-    }
-
-    .orange { color: #ff6600; }
-    .green { color: #138808; }
-    .blue { color: #1a73e8; }
-  </style>
