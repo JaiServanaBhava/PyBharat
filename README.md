@@ -1,4 +1,4 @@
-# pyindia
+# pyBharat
 
 <div align="center">
   <img src="logo.png" alt="PyIndia Logo" width="220"/>
@@ -11,15 +11,15 @@
 
 ---
 
-## 🔥 What is PyIndia?
+## 🔥 What is PyBharat?
 
-**PyIndia** is a proudly 🇮🇳 Indian-themed Python utility library built for modern developers, coders, students, and innovators. Whether you're building educational tools, regional applications, or fun projects, PyIndia blends Pythonic logic with Indian intelligence.
+**PyBharat** is a proudly 🇮🇳 Indian-themed Python utility library built for modern developers, coders, students, and innovators. Whether you're building educational tools, regional applications, or fun projects, PyIndia blends Pythonic logic with Indian intelligence.
 
 It’s not just a library — it’s a **Python-powered tribute to Indian tech minds**.
 
 ---
 
-## 🚀 Features of PyIndia
+## 🚀 Features of PyBharat
 
 | Feature | Description |
 |--------|-------------|
@@ -63,14 +63,14 @@ culture.om_wave(5)
 📄 License
 
 This project is licensed under the MIT License
-© 2025 [Your Name or GitHub Username] – India 🇮🇳
+© 2025 Jai Servana Bhava – India 🇮🇳
 
 
 ---
 
 🙌 Join the Movement
 
-> 🧘 “Code like a yogi, script like a sage.”
+🧘 “Code like a yogi, script like a sage.”
 
 
 
@@ -81,11 +81,11 @@ Contribute, fork, and ⭐ star the project — and show the world your Python �
 
 ---
 
-<div align="center">🤍 🧡 💚
+<div align="center">🧡 💚
 
 🇮🇳 PyIndia
 Proudly Made in India
 With Python. For Bharat.
-🧡 🤍 💚
+🧡 💚
 
 </div>
