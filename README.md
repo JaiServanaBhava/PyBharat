@@ -53,19 +53,8 @@ pip install .
 <h2>📄 License</h2>
   <p>This project is licensed under the <strong>MIT License</strong><br>
   &copy; 2025 <strong>Jai Servana Bhava</strong> – India 🇮🇳</p> .
-'''
-from pybharat import culture, utilities
-# Greet someone
-culture.say_namaste("Arjun")
-# Output: 🙏 Namaste, Arjun!
 
-# Get Indian-style date
-print(utilities.indian_date())
-# Output: 06-July-2025
 
-# Run mantra pattern
-culture.om_wave(5)
-'''
   <h2>🙌 Join the Movement</h2>
   <blockquote>
     🧘 “Code like a yogi, script like a sage.”
@@ -90,5 +79,5 @@ culture.om_wave(5)
       <span class="green">💚</span>
     </p>
     <h2>🇮🇳 PyBharat</h2>
-    <p class="footer-flags"><em>Made in India — By Developers, For Bharat</em></p>
+    <p class="footer-flags"><em>Made in India — By Jai Servana Bhava , For Bharat</em></p>
   </div>
