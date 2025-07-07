@@ -59,32 +59,92 @@ print(utilities.indian_date())
 
 # Run mantra pattern
 culture.om_wave(5)
+'''python
+h2>📄 License</h2>
+  <p>This project is licensed under the <strong>MIT License</strong><br>
+  &copy; 2025 <strong>Jai Servana Bhava</strong> – India 🇮🇳</p>
 
-📄 License
+  <h2>🙌 Join the Movement</h2>
+  <blockquote>
+    🧘 “Code like a yogi, script like a sage.”
+  </blockquote>
 
-This project is licensed under the MIT License
-© 2025 Jai Servana Bhava – India 🇮🇳
+  <p>
+    <strong>PyBharat</strong> is not just a library — it’s a movement.<br>
+    Help us build the Indian tech wave by blending code with cultural identity.
+  </p>
 
+  <ul>
+    <li>💡 Contribute</li>
+    <li>⭐ Star the repo</li>
+    <li>🔁 Fork and improve</li>
+    <li>📣 Share your Bharat-powered Python with the world</li>
+  </ul>
 
----
+  <div class="flag-footer">
+    <p class="footer-flags">
+      <span class="orange">🧡</span>
+      <span class="chakra blue"></span>
+      <span class="green">💚</span>
+    </p>
+    <h2>🇮🇳 PyBharat</h2>
+    <p class="footer-flags"><em>Made in India — By Developers, For Bharat</em></p>
+  </div>
+<style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 40px;
+      background: #fffefc;
+      color: #222;
+      line-height: 1.6;
+    }
 
-🙌 Join the Movement
+    code, pre {
+      background-color: #f0f0f0;
+      padding: 6px 10px;
+      border-radius: 4px;
+      display: block;
+      margin: 10px 0;
+      font-family: Consolas, monospace;
+      font-size: 14px;
+    }
 
-🧘 “Code like a yogi, script like a sage.”
+    h1, h2, h3 {
+      color: #0c3;
+    }
 
+    .flag-footer {
+      text-align: center;
+      padding: 30px 0 0;
+      margin-top: 60px;
+      border-top: 3px double #ccc;
+    }
 
+    .chakra {
+      display: inline-block;
+      color: #1a73e8;
+      font-size: 22px;
+      font-weight: bold;
+      margin: 4px 6px;
+    }
 
-PyIndia is more than just a library — it’s a growing cultural and open-source movement celebrating Indian tech, language, and values.
+    .chakra::before {
+      content: "☸";
+    }
 
-Contribute, fork, and ⭐ star the project — and show the world your Python 🇮🇳 power!
+    .install-box {
+      background: #fef7e0;
+      border-left: 6px solid #ff9933;
+      padding: 16px;
+      margin: 20px 0;
+    }
 
+    .footer-flags {
+      font-size: 18px;
+      color: #333;
+    }
 
-<div align="center">🧡 💚
-
-🇮🇳 PyIndia
-Proudly Made in India
-With Python. For Bharat.
-🧡 💚
-
-</div>
----
+    .orange { color: #ff6600; }
+    .green { color: #138808; }
+    .blue { color: #1a73e8; }
+  </style>
