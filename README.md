@@ -41,12 +41,15 @@ It’s not just a library — it’s a **Python-powered tribute to Indian tech m
 
 ### 📦 From PyPI (soon)
 ``` bash
-pip install pyindia
+# Option 1: Install from PyPI (coming soon)
+pip install pybharat
 
-git clone https://github.com/yourusername/pyindia.git
-cd pyindia
-pip install
+# Option 2: Install from GitHub
+git clone https://github.com/yourusername/pybharat.git
+cd pybharat
+pip install .
 
+EXAMPLE :
 from pyindia import culture, utilities
 
 # Greet someone
