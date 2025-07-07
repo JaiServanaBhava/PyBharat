@@ -49,8 +49,12 @@ git clone https://github.com/yourusername/pybharat.git
 cd pybharat
 pip install .
 
-EXAMPLE :
-from pyindia import culture, utilities
+```
+<h2>📄 License</h2>
+  <p>This project is licensed under the <strong>MIT License</strong><br>
+  &copy; 2025 <strong>Jai Servana Bhava</strong> – India 🇮🇳</p> .
+
+  from pybharat import culture, utilities
 
 # Greet someone
 culture.say_namaste("Arjun")
@@ -62,10 +66,6 @@ print(utilities.indian_date())
 
 # Run mantra pattern
 culture.om_wave(5)
-```
-<h2>📄 License</h2>
-  <p>This project is licensed under the <strong>MIT License</strong><br>
-  &copy; 2025 <strong>Jai Servana Bhava</strong> – India 🇮🇳</p>
 
   <h2>🙌 Join the Movement</h2>
   <blockquote>
