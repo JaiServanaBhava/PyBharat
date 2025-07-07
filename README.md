@@ -40,7 +40,6 @@ It’s not just a library — it’s a **Python-powered tribute to Indian tech m
 ## 🛠️ Installation
 
 ### 📦 From PyPI (soon)
-```bash
 pip install pyindia
 
 git clone https://github.com/yourusername/pyindia.git
@@ -59,7 +58,7 @@ print(utilities.indian_date())
 
 # Run mantra pattern
 culture.om_wave(5)
-'''python
+
 h2>📄 License</h2>
   <p>This project is licensed under the <strong>MIT License</strong><br>
   &copy; 2025 <strong>Jai Servana Bhava</strong> – India 🇮🇳</p>
