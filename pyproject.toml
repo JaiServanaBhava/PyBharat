@@ -1,0 +1,19 @@
+[project]
+name = "Pybharat"
+version = "0.0.1"
+authors = [
+  { name="Jai servana bhava ", email="jai005servanbhava@gmail.com " },
+]
+description = "PyBharat is a cultural-flavored Python library that blends Indian heritage with powerful programming tools.
+It offers utilities, data, and functions rooted in India — from national symbols, festivals, and state details to greeting styles, traditional mantras, and more."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/JaiServanaBhava/PyBharat"
