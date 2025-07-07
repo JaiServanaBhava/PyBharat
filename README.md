@@ -79,8 +79,6 @@ PyIndia is more than just a library — it’s a growing cultural and open-sourc
 Contribute, fork, and ⭐ star the project — and show the world your Python 🇮🇳 power!
 
 
----
-
 <div align="center">🧡 💚
 
 🇮🇳 PyIndia
@@ -89,3 +87,4 @@ With Python. For Bharat.
 🧡 💚
 
 </div>
+---
