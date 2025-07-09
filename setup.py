@@ -8,7 +8,7 @@ setup(
     description="PyBharat is a cultural-flavored Python library that blends Indian heritage with powerful programming tools. It offers utilities, data, and functions rooted in India — from national symbols, festivals, and state details to greeting styles, traditional mantras, and more.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/JaiServanaBhava/pybharat",
+    url="https://github.com/JaiServanaBhava/PyBharat",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
