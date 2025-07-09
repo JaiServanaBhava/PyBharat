@@ -46,11 +46,11 @@ It’s not just a library — it’s a **Python-powered tribute to Indian tech m
 ### 📦 From PyPI (soon)
 ``` bash
 # Option 1: Install from PyPI (coming soon)
-pip install pybharat
+pip install PyBharat
 
 # Option 2: Install from GitHub
-git clone https://github.com/yourusername/pybharat.git
-cd pybharat
+git clone https://github.com/JaiServanaBhava/PyBharat.git
+cd PyBharat
 pip install .
 
 ```
@@ -83,5 +83,5 @@ pip install .
       <span class="green">💚</span>
     </p>
     <h2>🇮🇳 PyBharat</h2>
-    <p class="footer-flags"><em>Made in India — By Jai Servana Bhava , For Bharat</em></p>
+    <p class="footer-flags"><em>Made in India — By Jai Servana Bhava , For Bharat<br>CONTACT - jai005servanbhava@gmail.com </em></p>
   </div>
