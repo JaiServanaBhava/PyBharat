@@ -3,7 +3,7 @@
 <div align="center">
   <img src="logo.png" alt="PyIndia Logo" width="220"/>
 
-  <h1>🇮🇳 PyIndia 🐍</h1>
+  <h1>🇮🇳 PyBharat 🐍</h1>
   <p><b>The soul of India in the power of Python</b></p>
 
   
