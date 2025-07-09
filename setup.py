@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="PyBharat",
+    name="pybharat",
     version="0.0.1",
     author="Jai Servana Bhava",
     author_email="jai005servanbhava@gmail.com",
