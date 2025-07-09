@@ -29,7 +29,7 @@ It’s not just a library — it’s a **Python-powered tribute to Indian tech m
 | 🗣️ **Regional Greetings** | Built-in phrases like Namaste, Vanakkam, etc. |
 | 📊 **CLI tools** | Command-line tools to interact with your functions |
 | 🧘 **Mantra Mode** | A creative easter-egg that prints "Om" patterns |
-| 🧪 **Beginner Friendly** | Made for students, learners, and Pythonistas |
+| 👍 **Beginner Friendly** | Made for students, learners, and Pythonistas |
 | ⚡ **Lightweight** | No heavy dependencies. Just pure Python 🇮🇳 |
 | 🔗 **Modular** | Easily extendable — contribute your own features! |
 | 🐍 **PyPI Ready** | Easily installable using pip |
@@ -37,7 +37,8 @@ It’s not just a library — it’s a **Python-powered tribute to Indian tech m
 |📁 civic_tools| Module	Contains functionality and scripts related to civic_tools|
 |📁 language_translator| Module	Contains functionality and scripts related to language_translator|
 |📁 utilities| Module	Contains functionality and scripts related to utilities|
-
+|⏰ Historical| Module contains historical fact functions of Imdia|
+|🌍 Agriculture | Module Contains function related Agriculture in India |
 
 ---
 
