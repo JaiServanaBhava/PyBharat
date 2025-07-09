@@ -35,9 +35,7 @@ It’s not just a library — it’s a **Python-powered tribute to Indian tech m
 | 🐍 **PyPI Ready** | Easily installable using pip |
 | 💬 **Code with Culture** | A fun way to explore Indian context with Python |
 |📁 civic_tools| Module	Contains functionality and scripts related to civic_tools|
-|📁 cyber_puja |Module	Contains functionality and scripts related to cyber_puja|
 |📁 language_translator| Module	Contains functionality and scripts related to language_translator|
-|📁 spiritual_modules| Module	Contains functionality and scripts related to spiritual_modules|
 |📁 utilities| Module	Contains functionality and scripts related to utilities|
 
 
