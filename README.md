@@ -1,4 +1,4 @@
-# pyBharat
+# PyBharat
 
 <div align="center">
   <img src="logo.png" alt="PyIndia Logo" width="220"/>
